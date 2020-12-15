@@ -1,0 +1,12 @@
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\obj\Debug\netcoreapp3.1\KataAnagram.csprojAssemblyReference.cache
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\obj\Debug\netcoreapp3.1\KataAnagram.AssemblyInfoInputs.cache
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\obj\Debug\netcoreapp3.1\KataAnagram.AssemblyInfo.cs
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\bin\Debug\netcoreapp3.1\KataAnagram.exe
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\bin\Debug\netcoreapp3.1\KataAnagram.deps.json
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\bin\Debug\netcoreapp3.1\KataAnagram.runtimeconfig.json
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\bin\Debug\netcoreapp3.1\KataAnagram.runtimeconfig.dev.json
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\bin\Debug\netcoreapp3.1\KataAnagram.dll
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\bin\Debug\netcoreapp3.1\KataAnagram.pdb
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\obj\Debug\netcoreapp3.1\KataAnagram.dll
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\obj\Debug\netcoreapp3.1\KataAnagram.pdb
+C:\Users\ALBERTO\source\repos\KataAnagram\KataAnagram\obj\Debug\netcoreapp3.1\KataAnagram.genruntimeconfig.cache
